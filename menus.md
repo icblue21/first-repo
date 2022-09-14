@@ -1,4 +1,4 @@
-## Menus
+## Candidates
 
 1. kimchi souf
 2. beaf
@@ -6,6 +6,7 @@
 
 ## new candidates
 
-1. steamed kimchi
-2. burger
+
+1. burger
+2. Steak
 3. chicken
