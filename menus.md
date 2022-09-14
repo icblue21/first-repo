@@ -1,4 +1,4 @@
-## Candidates
+## Menus
 
 1. kimchi souf
 2. beaf
@@ -6,6 +6,6 @@
 
 ## new candidates
 
-1. bibimbob
-2. souf
+1. steamed kimchi
+2. burger
 3. chicken
