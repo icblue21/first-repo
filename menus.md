@@ -1,22 +1,11 @@
-# menus
+## Candidates
 
-This is menus that i want
+1. kimchi souf
+2. beaf
+3. pizza
 
-## index
+## new candidates
 
-- Burger
-- Rice
-- Coffee
-
-## Burger
-
-tasty good
-
-## Rice
-
-tasty good
-
-## Coffee
-
-tasty good
-
+1. bibimbob
+2. souf
+3. chicken
