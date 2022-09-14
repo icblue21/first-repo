@@ -6,7 +6,6 @@
 
 ## new candidates
 
-
 1. burger
 2. Steak
 3. chicken
