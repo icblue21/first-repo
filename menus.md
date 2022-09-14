@@ -1,4 +1,4 @@
-## Candidates
+## Lunch menu
 
 1. kimchi souf
 2. beaf
@@ -6,6 +6,6 @@
 
 ## new candidates
 
-1. bibimbob
-2. souf
+1. kimchi
+2. Steak
 3. chicken
