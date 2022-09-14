@@ -1,4 +1,4 @@
-## Menu
+## Candidates
 
 1. kimchi souf
 2. beaf
